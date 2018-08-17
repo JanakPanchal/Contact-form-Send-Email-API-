@@ -20,7 +20,9 @@ npm install
 node app
 ```
 ## URL 
-``` Localhost:3000/send
+```
+ localhost:3000/send
+ 
 ```
 
 
@@ -69,3 +71,9 @@ Method : POST
     "messageId": "<ca2c5e95-8552-5e24-6694-bf54c963c4b5@digitaljao.com>"
 }
 ```
+
+### Author Info
+```
+Name : Janak Panchal
+Email : Janakpanchal13@gmail.com
+Github link : https://github.com/JanakPanchal/
