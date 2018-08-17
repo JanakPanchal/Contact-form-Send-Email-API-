@@ -1,0 +1,37 @@
+{
+  "name": "contact-form-send-email-api-",
+  "version": "1.0.0",
+  "description": "Sample app using nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Janak Panchal",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "nodemailer": "^4.6.7",
+    "nodemon": "^1.18.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanakPanchal/Contact-form-Send-Email-API-.git"
+  },
+  "keywords": [
+    "Website",
+    "Contact",
+    "form",
+    "generic",
+    "API",
+    "For",
+    "send",
+    "email"
+  ],
+  "bugs": {
+    "url": "https://github.com/JanakPanchal/Contact-form-Send-Email-API-/issues"
+  },
+  "homepage": "https://github.com/JanakPanchal/Contact-form-Send-Email-API-#readme"
+}
