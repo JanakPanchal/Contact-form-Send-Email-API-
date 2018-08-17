@@ -23,7 +23,9 @@ node app
 ``` Localhost:3000/send
 ```
 
+
 ## JSON Formate
+Method : POST
 ```
 {
 
@@ -46,3 +48,24 @@ node app
     
 
 }
+```
+### JSON Response
+```
+{
+    "accepted": [
+        "janakpanchal13@gmail.com"
+    ],
+    "rejected": [],
+    "envelopeTime": 237,
+    "messageTime": 3609,
+    "messageSize": 811,
+    "response": "250 OK id=1fqXNN-000lVU-1a",
+    "envelope": {
+        "from": "xxxx@xxxxx.com",
+        "to": [
+            "janakpanchal13@gmail.com"
+        ]
+    },
+    "messageId": "<ca2c5e95-8552-5e24-6694-bf54c963c4b5@digitaljao.com>"
+}
+```
